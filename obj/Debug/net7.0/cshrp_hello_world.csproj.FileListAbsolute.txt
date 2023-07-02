@@ -1,0 +1,15 @@
+H:\Мой диск\GB\Dotnet\cshrp_hello_world\bin\Debug\net7.0\cshrp_hello_world.exe
+H:\Мой диск\GB\Dotnet\cshrp_hello_world\bin\Debug\net7.0\cshrp_hello_world.deps.json
+H:\Мой диск\GB\Dotnet\cshrp_hello_world\bin\Debug\net7.0\cshrp_hello_world.runtimeconfig.json
+H:\Мой диск\GB\Dotnet\cshrp_hello_world\bin\Debug\net7.0\cshrp_hello_world.dll
+H:\Мой диск\GB\Dotnet\cshrp_hello_world\bin\Debug\net7.0\cshrp_hello_world.pdb
+H:\Мой диск\GB\Dotnet\cshrp_hello_world\obj\Debug\net7.0\cshrp_hello_world.csproj.AssemblyReference.cache
+H:\Мой диск\GB\Dotnet\cshrp_hello_world\obj\Debug\net7.0\cshrp_hello_world.GeneratedMSBuildEditorConfig.editorconfig
+H:\Мой диск\GB\Dotnet\cshrp_hello_world\obj\Debug\net7.0\cshrp_hello_world.AssemblyInfoInputs.cache
+H:\Мой диск\GB\Dotnet\cshrp_hello_world\obj\Debug\net7.0\cshrp_hello_world.AssemblyInfo.cs
+H:\Мой диск\GB\Dotnet\cshrp_hello_world\obj\Debug\net7.0\cshrp_hello_world.csproj.CoreCompileInputs.cache
+H:\Мой диск\GB\Dotnet\cshrp_hello_world\obj\Debug\net7.0\cshrp_hello_world.dll
+H:\Мой диск\GB\Dotnet\cshrp_hello_world\obj\Debug\net7.0\refint\cshrp_hello_world.dll
+H:\Мой диск\GB\Dotnet\cshrp_hello_world\obj\Debug\net7.0\cshrp_hello_world.pdb
+H:\Мой диск\GB\Dotnet\cshrp_hello_world\obj\Debug\net7.0\cshrp_hello_world.genruntimeconfig.cache
+H:\Мой диск\GB\Dotnet\cshrp_hello_world\obj\Debug\net7.0\ref\cshrp_hello_world.dll
